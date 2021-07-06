@@ -1,0 +1,5 @@
+Hi, this is the master product.
+
+So far, there are NO FEATURES ADDED. 
+
+Next time you commit the dev branch in, you should have all new stuff here.
