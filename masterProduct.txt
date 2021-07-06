@@ -3,3 +3,5 @@ Hi, this is the master product.
 So far, there are NO FEATURES ADDED. 
 
 Next time you commit the dev branch in, you should have all new stuff here.
+
+This is a fix added just to the develop branch. Done in the develop branch.
