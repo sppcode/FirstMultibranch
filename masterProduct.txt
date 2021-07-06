@@ -5,3 +5,7 @@ So far, there are NO FEATURES ADDED.
 Next time you commit the dev branch in, you should have all new stuff here.
 
 Develop Branch will now have the first iteration of Feature1 in it.
+
+==============
+
+Okay, this is an update from the Develop branch, and the GuessingGameBetter has been implemented. The original GuessingGame has been deleted.
